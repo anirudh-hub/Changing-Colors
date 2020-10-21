@@ -1,2 +1,2 @@
-# Changing-Colors
-When both blocks touch they switch colors 
+# p5.play-boilerplate
+Boiler plate for p5.play
